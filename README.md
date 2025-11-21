@@ -47,14 +47,11 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-OUTPUT:
+
+# OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/cb3e48c3-f443-4fc5-8b51-7f35e7ceda6b" />
 
  
-
-
-
-
-
 
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
